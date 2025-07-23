@@ -37,5 +37,5 @@ Altri prototipi e test sono nei miei repo pubblici o privati.
 
 ## 📬 Contatti · Contact
 
-- 🌐 [officinadev.dev](https://officinadev.dev) _(work in progress)_
+- 🌐 [officinadev.dev  - laboratorio digitale indipendente](https://officinadev.dev) _(work in progress)_
 - ✉️ tiziano@officinadev.dev
