@@ -22,13 +22,14 @@
 
 ## 📁 Progetti selezionati · Selected Projects
 
-| Nome / Name     | Descrizione / Description                               | Stack                      |
-|-----------------|---------------------------------------------------------|----------------------------|
-| **Artico**      | CRM offline-first e gestione ordini per agenti          | Capacitor, React, Flask    |
-| **Cilibox**     | Marketplace B2B per forniture ristorazione              | React, Node.js, PostgreSQL |
-| **Shifty**      | Gestione turni e consuntivazione oraria per piccoli team| PWA + backend modulare     |
-| **ChefFlow**    | App per chef: ordini via WhatsApp                       | Multilingua, no-login UX   |
-| **Makkina**     | App manutenzione automobile / Car maintenance App       | Vue.js, Quasar, Capacitor  |
+| Nome / Name          | Descrizione / Description                               | Stack                      |
+|----------------------|---------------------------------------------------------|----------------------------|
+| ❄️ **Artico**        | CRM offline-first e gestione ordini per agenti          | Capacitor, React, Flask    |
+| ☕ **Cilibox**       | Marketplace B2B per forniture ristorazione              | React, Node.js, PostgreSQL |
+| 🕐 **Shifty**        | Gestione turni e consuntivazione oraria per piccoli team| PWA + backend modulare     |
+| 🍴 **ChefFlow**      | App per chef: ordini via WhatsApp                       | Multilingua, no-login UX   |
+| 🚙 **Makkina**       | App manutenzione automobile / Car maintenance App       | Vue.js, Quasar, Capacitor  |
+| 🐷 **Sciallopay**    | Spendi. Respira. ScialloPay / Spend. Breathe. ScialloPay| React.js, Capacitor        |
 
 Altri prototipi e test sono nei miei repo pubblici o privati.
 
